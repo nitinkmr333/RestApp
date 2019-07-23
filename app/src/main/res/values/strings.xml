@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">restapp</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="personal"><u>Personal Details</u></string>
+    <string name="education"><u>Educational Details</u></string>
+    <string name="professional"><u>Professional Details</u></string>
+</resources>
